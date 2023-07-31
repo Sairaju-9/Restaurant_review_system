@@ -14,7 +14,7 @@ Data Sample:
 | This place is the best!                                 | 1     |
 | The waiters were rude and the food took forever to come. | 0     |
 
-Usage:
+##Usage:
 The dataset can be used to train a sentiment analysis model, particularly using a Naive Bayes classifier. The 'text' attribute will serve as the input feature, while the 'label' attribute will be the target variable.
 
 Contributing:
